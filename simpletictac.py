@@ -1,6 +1,7 @@
 import random
-''' An improved and nonrandom version of the inital computer the user plays in randomtictac.py(visit that if you haven't already) Key improvments include detecting if the user is about to win, and always 
-trying to put winning moves itself. A test of this is included in simpletest.py'''
+''' The medium level computer of the game I made in finalticgame.py. 
+An improved and nonrandom version of the first computer the user plays in easytic.py(visit that if you haven't already) Key improvments include detecting if the user is about to win, and always 
+trying to put winning moves itself. A test of this is included in mediumtest.py'''
 # Initialize the Tic Tac Toe board
 board = [' '] * 9
 player_marker = 'X'
