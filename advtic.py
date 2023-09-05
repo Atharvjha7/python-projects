@@ -1,5 +1,7 @@
 import random
-'''The final and most advanced computer player for tic-tac-toe. If you haven't already, visit the inital computer players I built in randomtictac.py and simpletest.py. Key changes here include "fork" detection, 
+'''The final and most advanced computer player for tic-tac-toe. 
+If you haven't already, visit the inital computer players I built in randomtictac.py and simpletest.py. 
+Key changes here include "fork" detection, 
 and trying to create forks using the current situation. A test for this is included in advtest.py'''
 # Function to check for a win
 def check_win(board, marker):
