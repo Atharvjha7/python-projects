@@ -1,6 +1,6 @@
 import random
 ''' This is a test of the random computer tic tac toe player I made in randomtictac.py, I am using 1000 random simulated games and outputting the results after. I made a non-random, improved version of this
-over in simpletictac.py All three computer players I made use no data but rather simple logic to ensure the best chance of winning for the given skillset.'''
+over in simpletictac.py .'''
 # Function to print the Tic Tac Toe board
 def print_board(board):
     print(f"{board[0]} | {board[1]} | {board[2]}")
