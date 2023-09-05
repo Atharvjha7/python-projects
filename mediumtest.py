@@ -1,6 +1,6 @@
 import random
-'''Test of the computer tic-tac-toe player I made in simpletictac.py using 1000 randomly simulated games in which results are outputted. 
-If you haven't already visit the inital random computer player in randomtictac.py'''
+'''Test of the computer tic-tac-toe player I made in mediumtic.py using 1000 randomly simulated games in which results are outputted. 
+If you haven't already visit the first random computer player in easytic.py'''
 # Function to check for a win
 def check_win(board, marker):
     win_combinations = [
