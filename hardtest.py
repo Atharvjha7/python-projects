@@ -1,5 +1,5 @@
 import random
-''' Test of 1000 randomly simulated games that are outputted for the best computer player of the three, if you haven't already, visit my inital ones at randomtictac.py and simpletictac.py 
+''' Test of 1000 randomly simulated games that are outputted for the best computer player/level of the three, if you haven't already, visit my inital ones at easytic.py and mediumtic.py 
 to see their performance and structure.'''
 # Function to check for a win
 def check_win(board, marker):
