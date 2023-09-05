@@ -1,5 +1,6 @@
 import random
-
+'''This is a simple tic tac toe AI without training I made for fun. The inital version, that is this version, just randomly selects off of the valid spaces on the grid. 
+Includes basic functionalities such as illegal move handling and other illegal input detection. After this, I tested the performance of the computer at randomtest.py'''
 # Initialize the Tic Tac Toe board
 board = [' '] * 9
 player_marker = 'X'
