@@ -1,5 +1,6 @@
-'''This is a tic-tac-toe game that provides a two player option or a user against varying levels of a computer 
-To see the code and performance tests for each level, check the other projects in this rep that have comments to guide you where to go'''
+'''This is a tic-tac-toe game that provides a two player option or a user against varying levels of a computer which was made using no data or ML, 
+but rather simple logic ensuring the best move per the situation and skillset
+To see the individual code and performance tests for each level, check the other projects in this rep related to tictactoe that have comments to guide you where to go'''
 import random
 
 # Function to print the Tic Tac Toe board
